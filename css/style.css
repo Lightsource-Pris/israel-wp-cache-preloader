@@ -1,0 +1,13 @@
+/* Style cache preloader */
+.cache-preloader{
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
+.cache-preloader button {
+    margin-top: 10px;
+}
+#messenger{
+    display: none;
+}
